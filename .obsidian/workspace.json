@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_tutorial_python/08C_modifikasi_string.md",
-                "mode": "preview",
+                "file": "01_tutorial_python/08G_string_methods.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08C_modifikasi_string"
+              "title": "08G_string_methods"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Penjelajah berkas"
@@ -165,11 +166,19 @@
   },
   "active": "fcb36229ac842c91",
   "lastOpenFiles": [
+    "01_tutorial_python/08F_escape_character.md",
+    "01_tutorial_python/08E_string_format.md",
+    "01_tutorial_python/08D_penggabungan_string.md",
+    "01_Zsrc/08D_string_lanjutan.py",
+    "01_tutorial_python/08C_modifikasi_string.md",
+    "01_tutorial_python/11A_python_list.md",
+    "01_tutorial_python/10_operator.md",
+    "01_tutorial_python/09_python-booleans.md",
+    "01_tutorial_python/08G_string_methods.md",
     "01_Zsrc/08C_modif_string.py",
     "01_Zsrc/08B_slicing_strings.py",
     "01_Zsrc/08A_python_string.py",
     "01_tutorial_python/10_modifikasi_string.md",
-    "01_tutorial_python/08C_modifikasi_string.md",
     "01_tutorial_python/08A_python_string.md",
     "01_tutorial_python/08B_slicing_string.md",
     "01_tutorial_python/09_slicing_string.md",
@@ -187,21 +196,12 @@
     "Tanpa judul 1.canvas",
     "Tanpa judul.canvas",
     "01_tutorial_python/04E_global_variable.md",
-    "01_Zsrc/04_variabel.py",
-    "01_Zsrc/02_sintaksis.py",
     "01_tutorial_python/04D_output_variable.md",
     "01_tutorial_python/04C_multivalue_variable.md",
     "01_tutorial_python/04B_variable_name.md",
     "01_tutorial_python/04A_variabel.md",
     "01_tutorial_python/03_python_comment.md",
     "01_tutorial_python/02_sintaksis_python.md",
-    "01_tutorial_python/01_getting_started.md",
-    "01_tutorial_python/#python_introduction.md",
-    "01_tutorial_python/04_variabel.md",
-    "01_tutorial_python/05_variable_name.md",
-    "01_tutorial_python/A3_python_comment.md",
-    "01_tutorial_python/A2_sintaksis_python.md",
-    "01_tutorial_python/A1_getting_started.md",
-    "1_Tutorial Python/A3_python_comment.md"
+    "01_tutorial_python/01_getting_started.md"
   ]
 }
