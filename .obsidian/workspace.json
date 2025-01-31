@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_tutorial_python/08G_string_methods.md",
+                "file": "01_tutorial_python/11K_list_meethods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08G_string_methods"
+              "title": "11K_list_meethods"
             }
           }
         ]
@@ -166,15 +166,28 @@
   },
   "active": "fcb36229ac842c91",
   "lastOpenFiles": [
+    "01_tutorial_python/11J_join_list.md",
+    "01_tutorial_python/11K_list_meethods.md",
+    "01_tutorial_python/11I_copy_list.md",
+    "01_tutorial_python/11A_python_list.md",
+    "01_tutorial_python/11H_python_sort_list.md",
+    "01_tutorial_python/11G_list_comprehension.md",
+    "01_tutorial_python/11F_loop_list.md",
+    "01_tutorial_python/11E_remove_list_item.md",
+    "01_tutorial_python/11D_add_list_item.md",
+    "01_tutorial_python/11C_change_list_item.md",
+    "01_tutorial_python/11B_acces_list.md",
+    "01_Zsrc/11A_list.py",
+    "01_tutorial_python/10_operator.md",
+    "01_Zsrc/10_operator.py",
+    "01_tutorial_python/09_python-booleans.md",
+    "01_Zsrc/09_boolean.py",
+    "01_tutorial_python/08G_string_methods.md",
     "01_tutorial_python/08F_escape_character.md",
     "01_tutorial_python/08E_string_format.md",
     "01_tutorial_python/08D_penggabungan_string.md",
     "01_Zsrc/08D_string_lanjutan.py",
     "01_tutorial_python/08C_modifikasi_string.md",
-    "01_tutorial_python/11A_python_list.md",
-    "01_tutorial_python/10_operator.md",
-    "01_tutorial_python/09_python-booleans.md",
-    "01_tutorial_python/08G_string_methods.md",
     "01_Zsrc/08C_modif_string.py",
     "01_Zsrc/08B_slicing_strings.py",
     "01_Zsrc/08A_python_string.py",
@@ -188,20 +201,8 @@
     "01_tutorial_python/07_python_casting.md",
     "01_Zsrc/08_python_string.py",
     "01_tutorial_python/08_python_string.py",
-    "01_Zsrc/07_casting.py",
     "01_tutorial_python/06_python_number.md",
-    "01_tutorial_python/05_tipe_data.md",
-    "01_Zsrc/06_python_number.py",
-    "01_Zsrc/05_tipe_data.py",
     "Tanpa judul 1.canvas",
-    "Tanpa judul.canvas",
-    "01_tutorial_python/04E_global_variable.md",
-    "01_tutorial_python/04D_output_variable.md",
-    "01_tutorial_python/04C_multivalue_variable.md",
-    "01_tutorial_python/04B_variable_name.md",
-    "01_tutorial_python/04A_variabel.md",
-    "01_tutorial_python/03_python_comment.md",
-    "01_tutorial_python/02_sintaksis_python.md",
-    "01_tutorial_python/01_getting_started.md"
+    "Tanpa judul.canvas"
   ]
 }
