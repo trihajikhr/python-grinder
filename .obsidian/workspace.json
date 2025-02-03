@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "11K_list_meethods"
             }
+          },
+          {
+            "id": "29114ccb3862700b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_tutorial_python/12C_update_tuples.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12C_update_tuples"
+            }
+          },
+          {
+            "id": "7dd04911769964a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_tutorial_python/15_if_else.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "15_if_else"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -164,10 +193,25 @@
       "command-palette:Buka palet perintah": false
     }
   },
-  "active": "fcb36229ac842c91",
+  "active": "7dd04911769964a1",
   "lastOpenFiles": [
-    "01_tutorial_python/11J_join_list.md",
+    "01_tutorial_python/13G_set_methods.md",
+    "01_tutorial_python/15_if_else.md",
+    "01_tutorial_python/13F_join_sets.md",
+    "01_tutorial_python/13E_loop_sets.md",
+    "01_tutorial_python/13D_remove_set_items.md",
+    "01_tutorial_python/13C_add_set_items.md",
+    "01_tutorial_python/13B_acces_set_items.md",
+    "01_tutorial_python/13A_python_set.md",
+    "01_tutorial_python/12G_tuple_methods.md",
+    "01_tutorial_python/12F_join_tuples.md",
+    "01_tutorial_python/12E_loop_tuples.md",
+    "01_tutorial_python/12D_unpack_tuples.md",
+    "01_tutorial_python/12C_update_tuples.md",
+    "01_tutorial_python/12B_acces_tupple.md",
+    "01_tutorial_python/12A_python_tuples.md",
     "01_tutorial_python/11K_list_meethods.md",
+    "01_tutorial_python/11J_join_list.md",
     "01_tutorial_python/11I_copy_list.md",
     "01_tutorial_python/11A_python_list.md",
     "01_tutorial_python/11H_python_sort_list.md",
@@ -178,30 +222,15 @@
     "01_tutorial_python/11C_change_list_item.md",
     "01_tutorial_python/11B_acces_list.md",
     "01_Zsrc/11A_list.py",
-    "01_tutorial_python/10_operator.md",
     "01_Zsrc/10_operator.py",
-    "01_tutorial_python/09_python-booleans.md",
     "01_Zsrc/09_boolean.py",
-    "01_tutorial_python/08G_string_methods.md",
-    "01_tutorial_python/08F_escape_character.md",
-    "01_tutorial_python/08E_string_format.md",
-    "01_tutorial_python/08D_penggabungan_string.md",
     "01_Zsrc/08D_string_lanjutan.py",
-    "01_tutorial_python/08C_modifikasi_string.md",
     "01_Zsrc/08C_modif_string.py",
     "01_Zsrc/08B_slicing_strings.py",
     "01_Zsrc/08A_python_string.py",
-    "01_tutorial_python/10_modifikasi_string.md",
-    "01_tutorial_python/08A_python_string.md",
-    "01_tutorial_python/08B_slicing_string.md",
-    "01_tutorial_python/09_slicing_string.md",
     "01_Zsrc/09_slicing_strings.py",
-    "01_tutorial_python/08_python_string.md",
-    "README.md",
-    "01_tutorial_python/07_python_casting.md",
     "01_Zsrc/08_python_string.py",
     "01_tutorial_python/08_python_string.py",
-    "01_tutorial_python/06_python_number.md",
     "Tanpa judul 1.canvas",
     "Tanpa judul.canvas"
   ]
