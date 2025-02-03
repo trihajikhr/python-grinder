@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_tutorial_python/15_if_else.md",
+                "file": "01_tutorial_python/20_python_arrays.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15_if_else"
+              "title": "20_python_arrays"
             }
           }
         ],
@@ -195,8 +195,13 @@
   },
   "active": "7dd04911769964a1",
   "lastOpenFiles": [
-    "01_tutorial_python/13G_set_methods.md",
+    "01_tutorial_python/19_lambda.md",
+    "01_tutorial_python/20_python_arrays.md",
+    "01_tutorial_python/18_function.md",
+    "01_tutorial_python/17_for_loops.md",
+    "01_tutorial_python/16_while_loops.md",
     "01_tutorial_python/15_if_else.md",
+    "01_tutorial_python/13G_set_methods.md",
     "01_tutorial_python/13F_join_sets.md",
     "01_tutorial_python/13E_loop_sets.md",
     "01_tutorial_python/13D_remove_set_items.md",
@@ -216,11 +221,6 @@
     "01_tutorial_python/11A_python_list.md",
     "01_tutorial_python/11H_python_sort_list.md",
     "01_tutorial_python/11G_list_comprehension.md",
-    "01_tutorial_python/11F_loop_list.md",
-    "01_tutorial_python/11E_remove_list_item.md",
-    "01_tutorial_python/11D_add_list_item.md",
-    "01_tutorial_python/11C_change_list_item.md",
-    "01_tutorial_python/11B_acces_list.md",
     "01_Zsrc/11A_list.py",
     "01_Zsrc/10_operator.py",
     "01_Zsrc/09_boolean.py",
