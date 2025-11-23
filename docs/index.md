@@ -8,7 +8,8 @@ Saat ini, Python adalah salah satu bahasa pemrograman paling populer. Meskipun m
 
 Tutorial Python ini ditulis untuk pemula agar mereka bisa memahami konsep dasar hingga lanjutan dalam Bahasa Pemrograman Python. Setelah menyelesaikan tutorial ini, kamu akan berada pada tingkat pemahaman yang kuat, dari mana kamu bisa melangkah lebih jauh untuk menjadi Software Engineer kelas dunia.
 
-Tutorial Python ini menggunakan versi Python terbaru, yaitu Python 3.13.
+!!! note
+    Tutorial Python ini menggunakan versi Python terbaru, yaitu Python 3.13.
 
 ## Apa itu Python
 
@@ -25,8 +26,10 @@ Berikut adalah contoh kode Python untuk mencetak **"Hello, World!"**:
 
 ```py
 # Python code to print "Hello, World!"
-print ("Hello, World!")
+print ("Hello, World!") # (1)
 ```
+
+1. sangat mudah bukan?
 
 ## Karakteristik Python
 
@@ -64,7 +67,7 @@ Rilis terbaru Python adalah versi 3.x. Seperti disebutkan sebelumnya, Python ada
 
 ## Pekerjaan Python
 
-Saat ini Python *sangat* diminati, dan hampir semua perusahaan besar mencari programmer Python untuk mengembangkan website, komponen perangkat lunak, aplikasi, atau bekerja di bidang data science, AI, dan teknologi machine learning. Ketika tutorial ini dibuat pada tahun 2022, ada kekurangan besar programmer Python — pasar membutuhkan lebih banyak talent karena Python dipakai di machine learning, artificial intelligence, dan lain-lain.
+Saat ini Python *sangat* diminati, dan hampir semua perusahaan besar mencari programmer Python untuk mengembangkan website, komponen perangkat lunak, aplikasi, atau bekerja di bidang data science, AI, dan teknologi machine learning. Ketika tutorial ini dibuat pada tahun 2022 (aku tulis lagi di tahun 2025 😅), ada kekurangan besar programmer Python — pasar membutuhkan lebih banyak talent karena Python dipakai di machine learning, artificial intelligence, dan lain-lain.
 
 Saat ini, programmer Python dengan pengalaman 3–5 tahun bisa meminta gaji sekitar **$150.000 per tahun** di Amerika, menjadikannya salah satu bahasa pemrograman paling dicari di sana. Tentu saja, angka ini bisa berbeda tergantung lokasi pekerjaan.
 
@@ -96,39 +99,21 @@ Python secara konsisten dinilai sebagai salah satu bahasa pemrograman paling pop
 
 Python adalah *wajib* bagi pelajar maupun profesional yang ingin menjadi software engineer hebat, terutama yang berkecimpung dalam pengembangan web. Berikut beberapa keuntungan utama belajar Python:
 
-### Python adalah Bahasa yang Diinterpretasi
+-  **Python adalah Bahasa yang Diinterpretasi**
 
 Python diproses saat runtime oleh interpreter. Kamu tidak perlu mengompilasi program sebelum menjalankannya — mirip seperti PERL dan PHP.
 
-### Python Bersifat Interaktif
+- **Python Bersifat Interaktif**
 
 Kamu bisa langsung membuka prompt Python dan berinteraksi dengan interpreter untuk menulis kode secara langsung.
 
-### Python Berorientasi Objek
+- **Python Berorientasi Objek**
 
 Python mendukung paradigma pemrograman berorientasi objek, yang mengenkapsulasi kode ke dalam objek.
 
-### Python Sangat Cocok untuk Pemula
+- **Python Sangat Cocok untuk Pemula**
 
 Python adalah bahasa yang ramah pemula, dan bisa digunakan untuk mengembangkan berbagai jenis aplikasi — mulai dari pemrosesan teks sederhana, browser web, hingga game.
-
-## Karier dengan Python
-
-Jika kamu menguasai Python dengan baik, peluang kariermu sangat terbuka. Berikut beberapa pilihan profesi di mana Python menjadi keterampilan utama:
-
-- Game developer
-- Web designer
-- Python developer
-- Full-stack developer
-- Machine learning engineer
-- Data scientist
-- Data analyst
-- Data engineer
-- DevOps engineer
-- Software engineer
-- Dan masih banyak peran lainnya
-
-Berikut terjemahan Indonesianya—ringkas, jelas, dan tetap natural.
 
 ## Karier dengan Python
 
@@ -146,11 +131,8 @@ Kalau kamu menguasai Python dengan baik, kariermu terbuka lebar. Berikut beberap
 * Software engineer
 * Dan masih banyak peran lainnya
 
+## Penutup
 
-## Target Pembaca: Siapa yang Cocok Belajar Python?
+Panduan ini dibuat supaya kamu bisa belajar dimanapun dan kapapun dengan mudah, mulai dari konsep dasar hingga lanjutan. Pelajari pelan-pelan tapi setiap hari, maka kamu pasti akan sampai di pemahaman yang lebih kuat tentang python.
 
-Tutorial ini disiapkan untuk pemula agar mereka bisa memahami konsep dasar hingga lanjutan dalam bahasa pemrograman Python. Setelah menyelesaikannya, kamu akan berada pada level pemahaman yang solid, dan siap melangkah lebih jauh lagi.
-
-### Prasyarat Belajar Python
-
-Walaupun ini tutorial untuk pemula, diasumsikan pembaca sudah memiliki sedikit pengalaman dengan lingkungan pemrograman serta memahami konsep dasar seperti variabel, perintah, sintaks, dan sebagainya.
+Walaupun ini tutorial untuk pemula, seharusnya anak informatika tidak perlu terlalu sulit untuk memahami hal-hal basic seperti variabel, percabangan, perintah, syntax, dan sejensinya, karena tidak jauh berbeda dengan bahasa pemrograman lainya seperti Java atau C++.
